@@ -1,0 +1,5 @@
+Name: Aruna Kamble
+Email: aruna@gmail.com
+Phone: 9876543210
+Education: B.E Computer Engineering
+Skills: Java, SQL, HTML, CSS, JavaScript
