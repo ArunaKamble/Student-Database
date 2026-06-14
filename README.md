@@ -9,7 +9,6 @@ The system supports PDF resume upload using Apache PDFBox and automatically extr
 * Resume ID
 * Name
 * Email
-* Phone Number
 * Education
 * Skills
 
@@ -31,7 +30,7 @@ The system supports PDF resume upload using Apache PDFBox and automatically extr
 
 * Upload PDF or text resumes.
 * Extract resume content automatically.
-* Parse Email, Phone Number, Education, and Skills.
+* Parse Email, Education, and Skills.
 
 ### Save Resume
 
@@ -114,8 +113,6 @@ Resume ID : 1
 Name : Aruna Kamble
 
 Email : [kamblearuna96@gmail.com](mailto:kamblearuna96@gmail.com)
-
-Phone : 7204908162
 
 Education : B.E Computer Science & Engineering
 
